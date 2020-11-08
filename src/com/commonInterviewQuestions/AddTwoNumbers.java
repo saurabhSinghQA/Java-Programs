@@ -18,7 +18,7 @@ public class AddTwoNumbers {
 		
 		int sum = a+b;
 		
-		System.out.println("Addition is "+sum);
+		System.out.println("Addition is "+sum); //addition performed
 
 	}
 
